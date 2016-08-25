@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Allie Kim",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://alliekim13.github.io/images/AllieKim.png",
+    "email": "alliekim@hawaii.edu",
+    "phone": "",
+    "website": "https://alliekim13.github.io",
+    "summary": "I am pursuing a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring 2017.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "alliekim",
+        "url": "http://github.com/alliekim13"
       },
       {
         "network": "linkedin",
