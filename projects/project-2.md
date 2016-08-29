@@ -20,4 +20,5 @@ The goal of this project was to create an in-house, low-cost tool for members of
 As the software lead for the project, I developed a GUI to allow users to visualize current and voltage readings 
 
 For more information on the Smart Campus Energy Lab, visit [this webpage](http://scel-hawaii.org/).
-https://github.com/alliekim13/GUI
+
+Source: <a href="https://github.com/alliekim13/GUI"><i class="large github icon"></i>GUI</a>
