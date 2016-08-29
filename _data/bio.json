@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "alliekim",
+        "username": "alliekim13",
         "url": "http://github.com/alliekim13"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Allie Kim",
+        "url": "http://www.linkedin.com/in/allie-m-kim"
       }
     ]
   },
@@ -41,18 +31,21 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Raspberry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "embedded software",
       "keywords": [
+        "PIC",
+        "Microcontroller"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "databases",
       "keywords": [
+        "SQL",
+        "PostgreSQL"
       ]
     }
   ],
@@ -63,10 +56,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Embedded C",
+        "Python",
+        "SQL"
       ]
     },
     {
