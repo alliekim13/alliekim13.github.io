@@ -13,4 +13,4 @@ Software engineering is an intriguing field because it is ever-evolving and rele
 
 I hope to expnd my knowledge in the area of big data and machine learning because I feel like this growing area of software engineering has so many possibilities to positively impact our lives. I hope to someday work on a program, service or device that I use in my everyday life. 
 
-I also believe software engineering has the opportunity to change communities - not only by the products created but the culture of knowledge, innovation and collaboration it promotes amongst those working in the industry. 
+I also believe software engineering has the opportunity to change communities - not only by the products created but the culture of knowledge, innovation and collaboration it promotes amongst those working in the industry. I hope, someday, to use my position in industry to act as a mentor and resource for students looking into software or computer engineering. 
