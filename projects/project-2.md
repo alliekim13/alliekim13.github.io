@@ -15,10 +15,10 @@ summary: An in-house, open-source tool developed for design teams within the Sma
 
 <img class="ui medium right floated rounded image" src="../images/AKSCELCVLScreenshot.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The goal of this project was to create an in-house, low-cost tool for members of the Smart Campus Energy Lab at the University of Hawaii at Manoa. We used an Arduino ATMega chip and INA219 DC current sensor to collect current and voltage data from devices being developed in the lab. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+As the software lead for the project, I developed a GUI to allow users to visualize current and voltage readings 
  
+ 
+For more information on the [Smart Campus Energy Lab] 
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
