@@ -13,7 +13,7 @@ labels:
 summary: An in-house, open-source tool developed for design teams within the Smart Campus Energy Lab.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/AKSCELCVLScreenshot.jpg">
+<img class="ui medium right floated rounded image" src="../images/AKSCELCVLScreenshot.png">
 
 The goal of this project was to create an in-house, low-cost tool for members of the Smart Campus Energy Lab at the University of Hawaii at Manoa. We used an Arduino ATMega chip and INA219 DC current sensor to collect current and voltage data from devices being developed in the lab. 
 
