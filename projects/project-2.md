@@ -21,4 +21,4 @@ As the software lead for the project, I developed a GUI to allow users to visual
 
 For more information on the Smart Campus Energy Lab, visit [this webpage](http://scel-hawaii.org/).
 
-Source: <a href="https://github.com/alliekim13/GUI"><i class="large github icon"></i>GUI</a>
+Source: <a href="https://github.com/alliekim13/GUI"><i class="large github icon"></i>/GUI</a>
