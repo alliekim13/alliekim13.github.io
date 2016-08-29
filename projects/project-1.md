@@ -9,12 +9,12 @@ labels:
   - Robotics
   - PIC
   - Embedded C
-  - 
+  - Hardware Design
 summary: Software lead for a team that developed a robot which successfully solved a 16 x 16 maze.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/AKUmouseinMaze.jpg">
 </div>
 
 The goal of the Micromouse project is to create an autonomous robot that can solve a 16 x 16 maze structure in the least amount of time. The robot may not have any sort of remote control functionality and the cost of the robot is limited to $500.
