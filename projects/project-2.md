@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/SCELLogo.png
+title: Smart Campus Energy Lab Current Voltage Logger
+permalink: projects/cvl
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - GUI
+  - PyQT
+  - Arduino
+  - Serial Communications
+summary: An in-house, open-source tool developed for design teams within the Smart Campus Energy Lab.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/AKSCELCVLScreenshot.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
