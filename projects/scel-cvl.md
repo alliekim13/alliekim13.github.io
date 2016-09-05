@@ -17,7 +17,7 @@ summary: An in-house, open-source tool developed for design teams within the Sma
 
 The goal of this project was to create an in-house, low-cost tool for members of the Smart Campus Energy Lab at the University of Hawaii at Manoa. We used an Arduino ATMega chip and INA219 DC current sensor to collect current and voltage data from devices being developed in the lab. 
 
-As the software lead for the project, I developed a GUI to allow users to visualize current and voltage readings 
+As the software lead for the project, I developed a GUI to allow users to visualize current and voltage readings. I utilized the PyQT, pyserial and matplotlib libraries to create the GUI. Some improvements I'd like to make to the project include incorporating basic computation functionalities, scheduling for the logging device and power-saving capabilities.
 
 For more information on the Smart Campus Energy Lab, visit [this webpage](http://scel-hawaii.org/).
 
