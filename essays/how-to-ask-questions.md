@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Interest in Software Engineering
-date: 2016-08-28
+title: Reflecting on Smart Questions
+date: 2016-09-08
 labels:
   - Soft skills
   - Questions
