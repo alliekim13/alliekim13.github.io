@@ -10,7 +10,6 @@ labels:
 ---
 
 <h1>Overview</h1>
-<br/>
   * <b>The problem</b> is that students at UH Manoa often have excess clothing that they no longer need and often times, it will just sit in their closets unused or worse, will end up in the trash. There are also students (like myself) who hate paying retail prices for clothing. There are various Instagram and Facebook pages where sellers post their clothing items, but these pages are often hard to find and unless the buyer personally knows the seller, there is a risk in meeting up with that person to make the exchange. There are also larger used clothing exchange sites but these sitse often take a cut of the revenue and there are often shipping fees so the seller isn't making as much as they could be and the buyer is overpaying. 
   * <b>The solution</b> is a clothing exchange app where UH Manoa students can sell and buy used clothing. This is an improvement upon using social media sites/commercial sites to sell and exchange used clothes for a few reasons:
     * Security: Students are only dealing with other UH Manoa students who are verified by their UH login credentials.
@@ -19,7 +18,6 @@ labels:
     * Motivation to use the site: Sellers will be motivated to use the site because they want to make a little extra cash off of unused clothes and have access to potential buyers. Buyers will be motivated to use the site because they want clothes at a discounted price but do not want to take the risk of meeting up with strangers.
   
 <h1>Mockup Page Ideas</h1>
-<br/>
 * Homepage: short summary of the app, login button
 * User profile page: does <b>not</b> distinguish a user as a "buyer" or "seller", displays contact info, their past transactions along with reviews of those transactions and the items they've posted (if any)
 * Item search page: allows users to search through items by size, price, category (shirts, pants, etc.), condition of the item and by seller
