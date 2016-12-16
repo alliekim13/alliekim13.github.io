@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Reflecting on Smart Questions
 date: 2016-09-08
+published: false
 labels:
   - Soft skills
   - Questions
