@@ -9,7 +9,7 @@ labels:
   - eslint
 ---
 
-<img class="ui medium circular center image" src="../images/eslintlogo.png">
+<img class="ui small circular centered image" src="../images/eslintlogo.png">
 
 White spaces, though they may seem insignificant, have helped me tremendously in making my code more readable. Having well-formatted code can have a significant impact on productivity. I typically code using a visual editor in the shell and do not adhere to a single formatting standard. I've had many situations where I've had difficulty visualizing what is encapsulated within code blocks such as for loops, while loops and HTML tags. This confusion and inefficiency could have been easily avoided by using indentations. I find that ESLint is a great tool for developing well-formatted code and enforcing good coding practices.
 
