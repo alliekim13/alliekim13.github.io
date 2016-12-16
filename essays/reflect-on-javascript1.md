@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Reflecting on Javascript 
 date: 2016-09-01
+published: false
 labels:
   - athletic software engineering
   - Javascript
