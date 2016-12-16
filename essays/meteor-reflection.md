@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: CRUD Application 
 date: 2016-10-20
+published: false
 labels:
   - meteor
   - application architecture
