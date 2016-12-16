@@ -10,7 +10,7 @@ labels:
   - CSS 
 ---
 
-<img class="ui large rounded left floated image" src="../images/semanticui.png">
+<img class="ui large fluid image" src="../images/semanticui.png">
 Semantic UI makes life much easier by allowing for the creation of visually appealing webpages without having to spend hours twaking HTML and CSS files. Some things that could take quite some time if done using solely HTML and CSS such as making borders look nice and creating a simple menu bar can be done with just a few lines of code when using Semantic UI. 
 
 Though there is a learning curve associated with learning to use these UI frameworks, it is an investment of time that is definitely worth it in the long run when you're able to create professional, clean and nicely laid-out webpages in significantly less time than if you were to just use HTML and CSS. The syntax of Semantic UI is also much more intuitive and concise than that of HTML. 
