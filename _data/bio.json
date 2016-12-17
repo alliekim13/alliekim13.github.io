@@ -29,20 +29,20 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Raspberry Pi"
       ]
     },
     {
-      "name": "embedded software",
+      "name": "Embedded Software",
       "keywords": [
         "PIC",
         "Microcontroller"
       ]
     },
     {
-      "name": "databases",
+      "name": "Databases",
       "keywords": [
         "SQL",
         "PostgreSQL"
@@ -58,7 +58,11 @@
         "C++",
         "Embedded C",
         "Python",
-        "SQL"
+        "SQL",
+        "HTML",
+        "JavaScript",
+        "Meteor",
+        "Semantic UI"
       ]
     },
     {
