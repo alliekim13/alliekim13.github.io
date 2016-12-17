@@ -12,7 +12,7 @@ labels:
   - meteor
 summary: Developed an application for the UH community to connect individuals and project teams.
 ---
-# Project Overview
+## Project Overview
 I worked on a team of University of Hawaii computer science and computer engineering undergraduate students under the guidance of Professor Philip Johnson to build a web application, Alloy. [Click here](https://alloyteams.github.io/) to see the team's project page. 
 
 The problem that the app seeks to solve is that it is often difficult for students interested in working on projects to find a team of people with the right set of skills. The idea behind Alloy was to create an application that helps UH students find teams. It allows students who either have a project idea or want to work on a side project to connect with potential team members based on skills needed to complete the project. 
