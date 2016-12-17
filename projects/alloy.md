@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alloy-wordmark.svg
+image: images/alloy-logo.png
 title: Alloy
 permalink: projects/alloy
 date: 2016
