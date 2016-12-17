@@ -26,6 +26,7 @@ Some of the use cases include:
 </ul>
 
 Below is a screen capture of the project home page which has a list of featured projects.
+
 <img class="ui centered image" src="../images/landing-page-logged-in-final.png">
 
 ### Meteor Application Development
