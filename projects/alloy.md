@@ -34,3 +34,5 @@ The application was built using the web application framework, Meteor. I was pri
 
 ### Learning Outcomes
 From this project, I learned both technical and project management skills. On the technical side, I became familiar with the Meteor application framework and strengthened my understanding of HTML and JavaScript. I also strengthened my skills in using Git and GitHub for version control. In terms of project management, I learned how to effectively break down tasks within a project to smaller incremental steps which we referred to as issues. More specifically, I learned how to create, assign and manage issues for projects through GitHub. 
+
+Source: <a href="https://github.com/alloyteams/alloy"><i class="large github icon"></i>/alloyteams/alloy</a>
