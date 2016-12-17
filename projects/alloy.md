@@ -18,7 +18,7 @@ I worked on a team of University of Hawaii computer science and computer enginee
 The problem that the app seeks to solve is that it is often difficult for students interested in working on projects to find a team of people with the right set of skills. The idea behind Alloy was to create an application that helps UH students find teams. It allows students who either have a project idea or want to work on a side project to connect with potential team members based on skills needed to complete the project. 
 
 Some of the use cases include:
-* Creating profiles that list skills
+* reating profiles that list skills
 * Creating projects that other people can browse and join
 * Suggesting relevant projects based on a user's skills
 * Searching for people and projects based on skills
