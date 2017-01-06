@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Clothes Exchange App
 date: 2016-11-28
+published: true
 labels:
   - Software Engineering
   - Idea
